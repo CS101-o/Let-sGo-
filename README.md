@@ -1,4 +1,4 @@
-Non-Technical Description
+**Non-Technical Description**
 LetsGOO App: Your boredom buster!
 
 Life can be dull when you don’t know what to do or where to go. That’s where LetsGOO App steps in. Whether you’re looking for a cozy date night idea or an adventurous group activity, this app makes discovering fun, nearby events and activities effortless.
@@ -12,7 +12,8 @@ It’s more than just a planner. Earn points by visiting places, sharing your ex
 
 Let LetsGOO App surprise you, excite you, and reward you for going out. Life’s better when it’s spontaneous!
 
-Technical Description
+--------------------------------------------------------------------------------------------------
+**Technical Description**
 The LetsGOO App is a location-based event and activity discovery platform designed for spontaneity and user engagement. Its key features include:
 
 Activity Matching
